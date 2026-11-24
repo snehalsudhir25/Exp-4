@@ -116,7 +116,7 @@ Iris dataset.
     
     Linear Kernel: 0.7333 (73.33%)
 
-RBF Kernel: 0.7333 (73.33%)
+    RBF Kernel: 0.7333 (73.33%)
 
 ## Result
 Thus, the Support Vector Machine (SVM) classification algorithm was successfully implemented using Python. Linear and RBF kernels were trained and tested using the Iris dataset, and their decision boundaries were visualized. Both models achieved 73.33% accuracy
